@@ -1,0 +1,17 @@
+Testsuite: org.o14x.simplespringsocial.core.SessionConnectionRepositoryTest
+Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 0,872 sec
+------------- Standard Error -----------------
+--Output from testAddConnection--
+--Output from testRemoveConnection--
+--Output from testRemoveConnections--
+--Output from testFindAllConnections--
+--Output from testFindConnections--
+--Output from testFindConnections2--
+------------- ---------------- ---------------
+
+Testcase: testAddConnection took 0,647 sec
+Testcase: testRemoveConnection took 0,026 sec
+Testcase: testRemoveConnections took 0,015 sec
+Testcase: testFindAllConnections took 0,096 sec
+Testcase: testFindConnections took 0,013 sec
+Testcase: testFindConnections2 took 0,05 sec

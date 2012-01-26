@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="PCNA029" id="0" name="SessionConnectionRepositoryTest" package="org.o14x.simplespringsocial" tests="6" time="0.872" timestamp="2012-01-18T20:17:09">
+      <properties />
+
+      <testcase classname="org.o14x.simplespringsocial.core.SessionConnectionRepositoryTest" name="testAddConnection" time="0.647" />
+
+      <testcase classname="org.o14x.simplespringsocial.core.SessionConnectionRepositoryTest" name="testRemoveConnection" time="0.026" />
+
+      <testcase classname="org.o14x.simplespringsocial.core.SessionConnectionRepositoryTest" name="testRemoveConnections" time="0.015" />
+
+      <testcase classname="org.o14x.simplespringsocial.core.SessionConnectionRepositoryTest" name="testFindAllConnections" time="0.095" />
+
+      <testcase classname="org.o14x.simplespringsocial.core.SessionConnectionRepositoryTest" name="testFindConnections" time="0.013" />
+
+      <testcase classname="org.o14x.simplespringsocial.core.SessionConnectionRepositoryTest" name="testFindConnections2" time="0.05" />
+
+      <system-out />
+
+      <system-err><![CDATA[--Output from testAddConnection--
+--Output from testRemoveConnection--
+--Output from testRemoveConnections--
+--Output from testFindAllConnections--
+--Output from testFindConnections--
+--Output from testFindConnections2--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
