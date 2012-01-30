@@ -41,7 +41,7 @@ class SimpleSpringSocialCoreGrailsPlugin {
 
 	def doWithSpring = {
 		xmlns context: "http://www.springframework.org/schema/context"
-		context.'component-scan'('base-package': "org.o14x.simplespringsocial.core.config")
+		context.'component-scan'('base-package': "grails.plugin.simplespringsocial.core.config")
 	}
 
 	def doWithDynamicMethods = { ctx ->
