@@ -1,6 +1,0 @@
---Output from testAddConnection--
---Output from testRemoveConnection--
---Output from testRemoveConnections--
---Output from testFindAllConnections--
---Output from testFindConnections--
---Output from testFindConnections2--
