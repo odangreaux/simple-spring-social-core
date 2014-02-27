@@ -1,1 +1,17 @@
 target
+
+.classpath
+
+.settings/org.eclipse.jdt.groovy.core.prefs
+
+*.prefs
+
+*.class
+
+target-eclipse/classes/grails/plugins/publish/svn/.SvnDeployer.groovy.swp
+
+.project
+
+.settings/org.codehaus.groovy.eclipse.preferences.prefs
+
+.settings/org.codehaus.groovy.eclipse.preferences.prefs
